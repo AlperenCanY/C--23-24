@@ -1,0 +1,16 @@
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.Form1.resources
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.csproj.GenerateResource.cache
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.AssemblyInfoInputs.cache
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.AssemblyInfo.cs
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\bin\Debug\net6.0-windows\VucutKitleEndeksi.exe
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\bin\Debug\net6.0-windows\VucutKitleEndeksi.deps.json
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\bin\Debug\net6.0-windows\VucutKitleEndeksi.runtimeconfig.json
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\bin\Debug\net6.0-windows\VucutKitleEndeksi.dll
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\bin\Debug\net6.0-windows\VucutKitleEndeksi.pdb
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.dll
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\refint\VucutKitleEndeksi.dll
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.pdb
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\VucutKitleEndeksi.genruntimeconfig.cache
+C:\Users\yildi\source\repos\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\net6.0-windows\ref\VucutKitleEndeksi.dll
